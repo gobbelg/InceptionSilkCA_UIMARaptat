@@ -1,0 +1,6 @@
+[submodule "InceptionSilkCA_v01"]
+	path = InceptionSilkCA_v01
+	url = https://github.com/CPHI-TVHS/InceptionSilkCA_v01.git
+[submodule "UIMARaptat_v01"]
+	path = UIMARaptat_v01
+	url = https://github.com/CPHI-TVHS/UIMARaptat_v01.git
